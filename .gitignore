@@ -4,4 +4,4 @@ models/
 *.7z
 *.rpm
 .ipynb_checkpoints/
-
+*.pkl
